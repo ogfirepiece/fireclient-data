@@ -1,0 +1,13 @@
+{
+  "clusters": [
+    {
+      "major_version": 21,
+      "name": "1.21",
+      "tags": [],
+      "entries": [
+        { "minor_version": 1, "loader": "fabric", "name": "1.21.1" }
+      ]
+    }
+  ],
+  "migrations": []
+}
